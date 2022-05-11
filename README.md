@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Sankar-DS
 - 👀 I’m interested in ...Data Science
-- 💞️ I’m looking to collaborate on ...NLP and Computer Vision
+- 💞️ I’m looking to collaborate on ...NLP and Computer Vision DNN projects
 - 📫 How to reach me ...+91-8807236205
 
 <!---
